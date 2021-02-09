@@ -1,0 +1,6 @@
+flow\samples\TextEvent.class
+flow\EngineTest.class
+flow\samples\TextAction.class
+flow\samples\TextApp.class
+flow\samples\TextAgent.class
+flow\samples\TextAdapter.class
